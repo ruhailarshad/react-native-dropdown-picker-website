@@ -28,7 +28,7 @@ bottomOffset={100}
 | -------- | -------- |
 | number   | 0        |
 
-## Styling
+## Stylingsadas
 ### `dropDownContainerStyle`
 ```jsx
 dropDownContainerStyle={{
